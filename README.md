@@ -22,4 +22,10 @@
 # Python list
 * Range -使用range()和 len()函數創建合適的可迭代對象。
 >range(起始值,終止值,遞增(減)值)
-=======
+
+* 元組tuple(資料不能做更改)
+```
+score = (90,80,70,60)
+score[0] = 10
+print(score[i])
+```
