@@ -29,3 +29,13 @@ score = (90,80,70,60)
 score[0] = 10
 print(score[i])
 ```
+#檔案寫入、讀取
+
+> open("檔案路徑",mode="開啟模式")
+
+> 絕對路徑 (ex:C:/Users/黃則叡/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/file.py)
+> 相對路徑 -> 以程式位置做延伸(ex:file.py)
+
+> mode ="r" 讀取、
+> mode ="w" 覆寫、
+> mode ="a" 在原先的資料後寫東西

@@ -12,4 +12,6 @@ nums = [
 
 for row in nums : 
     for col in row :
-        print(row)
+        print(col)
+
+#3維列表、槽狀迴圈
