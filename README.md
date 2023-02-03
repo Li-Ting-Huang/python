@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python 語法
 >print()換行
 
@@ -5,3 +6,6 @@
 # Python list
 * Range -使用range()和 len()函數創建合適的可迭代對象。
 >range(起始值,終止值,遞增(減)值)
+=======
+# python
+>>>>>>> e86536668094dcff0a147c8cca6de4dc30e31b33
